@@ -1,0 +1,12 @@
+[package]
+name = "tic_tac_toe"
+version = "0.1.0"
+edition = "2021"
+description = "A simple Tic-Tac-Toe game written in Rust."
+authors = ["alexmozaidze <alexman2622@gmail.com>"]
+readme = "README.md"
+
+[dependencies]
+pix-engine = "0.5"
+anyhow = "1.0"
+das-grid = "0.1"
